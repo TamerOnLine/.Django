@@ -49,4 +49,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 Feel free to fork the repository and submit pull requests if you have any improvements!
 
 ## 📬 Contact
-For any inquiries, you can reach me at: **tamer@tameronline.com**
+For any inquiries, you can reach me at: **info@tameronline.com**
